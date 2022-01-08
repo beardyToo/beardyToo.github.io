@@ -1,7 +1,7 @@
 ## Server rules
 1. No griefing
 2. We share it all
-
+3. No duping :bomb:
 ??? warning "Don't steal"
     You use it you replace it
 
