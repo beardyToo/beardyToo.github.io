@@ -43,7 +43,8 @@ jobs:
       - name: Move built files
         run: |
           rm -r docs
-          mv site docs
+          rm -r README.md
+          mv site/* ./
       - name: Publish
         run: |
           git config --global user.name 'Beardy too Runner'
