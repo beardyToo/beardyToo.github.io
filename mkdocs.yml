@@ -1,0 +1,38 @@
+site_name: Goofs and Gaffs Server
+theme:
+  name: 'material'
+  pallete:
+    primary: 'teal'
+    accent: 'purple'
+
+nav:
+  - Home: index.md
+  - Minecraft:
+      - About: minecraft/about.md
+      - Projects: minecraft/projects.md
+      - Infrastructure:
+        - Infrastructure: minecraft/infrastructure.md
+        - Spawn city:
+          - Iron Farm And Storage: minecraft/spawn-city/iron-farm.md
+          - Main materials builk storage: minecraft/spawn-city/main-materials-bulk-storage.md
+
+markdown_extensions:
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+      clickable_checkbox: true
+  - pymdownx.tilde
+
