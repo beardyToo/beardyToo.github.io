@@ -9,12 +9,15 @@ nav:
   - Home: index.md
   - Minecraft:
       - About: minecraft/about.md
-      - Projects: minecraft/projects.md
+      - Projects:
+          - Project list: minecraft/projects.md
+          - Trade village: minecraft/projects/trade-village.md
       - Infrastructure:
-        - Infrastructure: minecraft/infrastructure.md
-        - Spawn city:
-          - Iron Farm And Storage: minecraft/spawn-city/iron-farm.md
-          - Main materials builk storage: minecraft/spawn-city/main-materials-bulk-storage.md
+          - Infrastructure: minecraft/infrastructure.md
+          - Spawn city:
+              - Iron Farm And Storage: minecraft/spawn-city/iron-farm.md
+              - Main materials builk storage: minecraft/spawn-city/main-materials-bulk-storage.md
+              - Trade village: minecraft/spawn-city/trade-village.md
 
 markdown_extensions:
   - pymdownx.betterem
