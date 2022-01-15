@@ -1,51 +1,67 @@
 ??? warning "Under construction"
-Currently under construction [Trade village project](../projects/trade-village.md)
+    Currently under construction [Trade village project](../projects/trade-village.md)
 
 ## About
 
 ### Librarian
 
-| Enchantment               | Price |
-|---------------------------|-------|
-|  Aqua Affinity            |       |
-|  Bane of Arthropods V     |       |
-|  Blast Protection IV      |       |
-|  Channeling               |       |
-|  Cleaving III             |       |
-|  Curse of Binding         |       |
-|  Curse of Vanishing       |       |
-|  Depth Strider III        |       |
-|  Efficiency V             | 64    |
-|  Feather Falling IV       | 45    |
-|  Fire Aspect II           |       |
-|  Fire Protection IV       |       |
-|  Flame                    |       |
-|  Fortune III              | 23    |
-|  Frost Walker II          |       |
-|  Impaling  V              |       |
-|  Infinity                 |       |
-|  Knockback II             |       |
-|  Looting III              |       |
-|  Loyalty III              |       |
-|  Luck of the Sea III      |       |
-|  Lure III                 |       |
-|  Mending                  | 12    |
-|  Multishot                |       |
-|  Piercing IV              |       |
-|  Power V                  |       |
-|  Projectile Protection IV |       |
-|  Protection IV            | 50    |
-|  Punch II                 |       |
-|  Quick Charge III         |       |
-|  Respiration III          |       |
-|  Riptide III              |       |
-|  Sharpness V              | 26    |
-|  Silk Touch               | 6     |
-|  Smite V                  |       |
-|  Soul Speed III           |       |
-|  Sweeping Edge III        | 24    |
-|  Thorns III               |       |
-|  Unbreaking III           | 27    |
+??? "Middle wing - Common"
+    
+    | Enchantment         | Price |
+    |---------------------|-------|
+    | Curse of Binding    |       |
+    | Curse of Vanishing  |       |
+    | Efficiency V        | 64    |
+    | Fortune III         | 23    |
+    | Luck of the Sea III |       |
+    | Lure III            |       |
+    | Mending             | 12    |
+    | Silk Touch          | 6     |
+    | Unbreaking III      | 27    |
+
+??? "Right wing - Defensive"
+    
+    | Enchantment              | Price |
+    |--------------------------|-------|
+    | Aqua Affinity            |       |
+    | Blast Protection IV      |       |
+    | Depth Strider III        |       |
+    | Feather Falling IV       | 45    |
+    | Fire Protection IV       |       |
+    | Frost Walker II          |       |
+    | Projectile Protection IV |       |
+    | Protection IV            | 50    |
+    | Respiration III          |       |
+    | Thorns III               |       |
+
+??? "Left Wing - Melee Weapons"
+    
+    | Enchantment          | Price |
+    |----------------------|-------|
+    | Bane of Arthropods V |       |
+    | Cleaving III         |       |
+    | Fire Aspect II       |       |
+    | Knockback II         |       |
+    | Looting III          |       |
+    | Sharpness V          | 26    |
+    | Smite V              |       |
+    | Sweeping Edge III    | 24    |
+
+??? "Upper floor - Range Weapons"
+    
+    | Enchantment          | Price |
+    |----------------------|-------|
+    | Channeling           |       |
+    | Flame                |       |
+    | Impaling  V          |       |
+    | Infinity             |       |
+    | Loyalty III          |       |
+    | Multishot            |       |
+    | Piercing IV          |       |
+    | Power V              |       |
+    | Punch II             |       |
+    | Quick Charge III     |       |
+    | Riptide III          |       |
 
 ### Location
 

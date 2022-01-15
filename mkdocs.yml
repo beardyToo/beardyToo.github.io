@@ -2,6 +2,7 @@ site_name: Goofs and Gaffs Server
 theme:
   name: 'material'
   pallete:
+    scheme: 'slate'
     primary: 'teal'
     accent: 'purple'
 
@@ -12,6 +13,7 @@ nav:
       - Projects:
           - Project list: minecraft/projects.md
           - Trade village: minecraft/projects/trade-village.md
+          - Cactus farm: minecraft/projects/cactus-farm.md
       - Infrastructure:
           - Infrastructure: minecraft/infrastructure.md
           - Spawn city:
@@ -34,6 +36,7 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.superfences
+  - pymdownx.tabbed
   - pymdownx.tasklist:
       custom_checkbox: true
       clickable_checkbox: true
