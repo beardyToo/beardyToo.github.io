@@ -1,67 +1,66 @@
 ??? warning "Under construction"
-    Currently under construction [Trade village project](../projects/trade-village.md)
+Currently under construction [Trade village project](../projects/trade-village.md)
 
 ## About
 
 ### Librarian
 
 ??? "Middle wing - Common"
-    
+
     | Enchantment         | Price |
     |---------------------|-------|
-    | Curse of Binding    |       |
-    | Curse of Vanishing  |       |
-    | Efficiency V        | 64    |
+    | Curse of Binding    |   14    |
+    | Curse of Vanishing  |    16   |
+    | Efficiency V        | 18    |
     | Fortune III         | 23    |
-    | Luck of the Sea III |       |
-    | Lure III            |       |
-    | Mending             | 12    |
+    | Luck of the Sea III |    22   |
+    | Lure III            |  14     |
+    | Mending             | 12 / 16   |
     | Silk Touch          | 6     |
     | Unbreaking III      | 27    |
 
 ??? "Right wing - Defensive"
-    
-    | Enchantment              | Price |
-    |--------------------------|-------|
-    | Aqua Affinity            |       |
-    | Blast Protection IV      |       |
-    | Depth Strider III        |       |
-    | Feather Falling IV       | 45    |
-    | Fire Protection IV       |       |
-    | Frost Walker II          |       |
-    | Projectile Protection IV |       |
-    | Protection IV            | 50    |
-    | Respiration III          |       |
-    | Thorns III               |       |
+
+    | Enchantment              | Price   |
+    |--------------------------|---------|
+    | Aqua Affinity            |    10   |
+    | Blast Protection IV      |    40   |
+    | Depth Strider III        |  28     |
+    | Feather Falling IV       | 45      |
+    | Fire Protection IV       |   43    |
+    | Frost Walker II          |   24    |
+    | Projectile Protection IV |    53     |
+    | Protection IV            | 50      |
+    | Respiration III          |    37     |
+    | Thorns III               |  26     |
 
 ??? "Left Wing - Melee Weapons"
-    
+
     | Enchantment          | Price |
     |----------------------|-------|
-    | Bane of Arthropods V |       |
-    | Cleaving III         |       |
-    | Fire Aspect II       |       |
-    | Knockback II         |       |
-    | Looting III          |       |
+    | Bane of Arthropods V |   63    |
+    | Fire Aspect II       |   10    |
+    | Knockback II         |   24    |
+    | Looting III          |   12    |
     | Sharpness V          | 26    |
-    | Smite V              |       |
+    | Smite V              |  22     |
     | Sweeping Edge III    | 24    |
 
 ??? "Upper floor - Range Weapons"
-    
+
     | Enchantment          | Price |
-    |----------------------|-------|
-    | Channeling           |       |
-    | Flame                |       |
-    | Impaling  V          |       |
-    | Infinity             |       |
-    | Loyalty III          |       |
-    | Multishot            |       |
-    | Piercing IV          |       |
-    | Power V              |       |
-    | Punch II             |       |
-    | Quick Charge III     |       |
-    | Riptide III          |       |
+    |----------------------|--------|
+    | Channeling           |   9    |
+    | Flame                |    7   |
+    | Impaling  V          |    30   |
+    | Infinity             |    10   |
+    | Loyalty III          |    36   |
+    | Multishot            |   14    |
+    | Piercing IV          |   36    |
+    | Power V              |    63   |
+    | Punch II             |    13   |
+    | Quick Charge III     |    21   |
+    | Riptide III          |    32   |
 
 ### Location
 
